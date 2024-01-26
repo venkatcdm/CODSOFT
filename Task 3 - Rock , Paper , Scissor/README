@@ -1,0 +1,13 @@
+
+"Rock, Paper, Scissors" Game
+
+Interactive Gameplay: Users can play against the computer, making their choice of Rock, Paper, or Scissors.
+Real-time Results: After the user makes a move, the computer's choice is revealed, and the result (win, lose, or tie) is displayed on
+the screen.
+Play Again Option: Hit "Play Again" for another round of fun!
+User-Friendly Interface: Designed with ease of use in mind, ensuring a smooth and enjoyable gaming experience.
+Visual Appeal: Enhanced with captivating images for Rock, Paper, and Scissors, making the game visually engaging.
+
+Programming concepts: Leveraged functions for modular and organized code, Utilized conditional statements to determine game outcomes
+based on user and computer choices.
+GUI: Python tkinter
