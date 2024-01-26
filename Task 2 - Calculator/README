@@ -1,0 +1,13 @@
+
+"A Fully Functional Calculator" - This application supports basic arithmetic operations, allowing users to perform addition, subtraction, 
+multiplication, and division effortlessly.
+
+User-Friendly Interface:Designed with the user in mind, the interface is intuitive and easy to navigate, providing a seamless experience
+for performing calculations.
+
+Real Calculator Feel:I've paid special attention to the design to replicate the look and feel of a real calculator. The aesthetic appeal 
+enhances the user experience, making it both functional and visually pleasing.
+
+GUI Library: Python Tkinter
+Programming concepts: I've implemented modular design using functions. This not only enhances code readability but also facilitates future
+modifications and additions.
