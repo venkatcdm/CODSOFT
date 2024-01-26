@@ -1,0 +1,14 @@
+"Robust Password Generator" - This tool allows users to create secure and customized passwords effortlessly.
+
+Tailored Complexity: Users have the control to set the length and complexity of their passwords. Whether it's a strong, complex passphrase 
+or a shorter, secure combination, this generator caters to individual preferences.
+
+Interactive Generation: Not satisfied with the first result? Click the submit button to generate multiple password options until you find 
+the one that meets your security criteria. Your security, your way.
+
+User-Friendly Interface: The application features an intuitive design for seamless navigation. It's designed to be accessible to users of all 
+technical backgrounds, ensuring a smooth and efficient password generation process.
+
+GUI: Python tkinter
+Other Modules used: Random and string modules
+Programming concepts implemented - Functions, Loops, Conditional statements
